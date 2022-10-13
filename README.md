@@ -10,21 +10,21 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>HTML5</span><br><br>
+        <span><b>HTML5</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
-        <span>CSS3</span><br><br>
+        <span><b>CSS3</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
-        <span>JavaScript</span><br><br>
+        <span><b>JavaScript</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
     </tr>
     <tr valign="top">
            <td width="200px" align="center">
-        <span>Bootstrap 5</span><br><br>
+        <span><b>Bootstrap 5</b></span><br><br>
         <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
       </td>
       <td width="200px" align="center">
@@ -32,21 +32,21 @@
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
       </td>
       <td width="200px" align="center">
-        <span>Git, Github & Gitlab</span><br><br>
+        <span><b>Git, Github & Gitlab</b></span><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
     </tr>
     <tr>
       <td width="25%" align="center">
-        <span>React.js</span><br><br>
+        <span><b>React.js</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
       </td>
       <td width="25%" align="center">
-        <span>React Redux</span><br><br>
+        <span><b>React Redux</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo-vector.svg">
       </td>
       <td width="25%" align="center">
-        <span>Next.js</span><br><br>
+        <span><b>Next.js</b></span><br><br>
         <img height="64px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
       </td>
     </tr>
