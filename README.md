@@ -59,10 +59,6 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Elsharqawy50&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
 </p>
 
-<!-- <p align = "center">
-<img src="https://camo.githubusercontent.com/c02784b921148cba636bc9e44e179f60112cda7952d7eb67fbe44fa1d97a40da/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d73696e676830387072617368616e7426726f773d31266e6f2d6672616d653d74727565">
-</p> -->
-
 <p>Contact me:</p>
 <a href="https://www.linkedin.com/in/abdelrahman-mohamed-elsharqawy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:abdelrahman.elsharqawy50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red.svg?&logo=gmail&logoColor=white" alt="gmai"></a>
