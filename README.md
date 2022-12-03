@@ -9,48 +9,54 @@
 <table align ="center">
   <tbody>
     <tr valign="top">
-      <td width="150px" align="center">
+      <td width="200px" align="center">
         <span><b>HTML5</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="150px" align="center">
+      <td width="200px" align="center">
         <span><b>CSS3</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="150px" align="center">
+      <td width="200px" align="center">
         <span><b>JavaScript</b></span><br><br>
         <img height="65px" src="https://cdn.svgporn.com/logos/javascript.svg">
       </td>
-      <td width="150px" align="center">
+      <td width="200px" align="center">
         <span><b>TypeScript</b></span><br><br>
         <img height="65px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
       </td>
-      <td width="150px" align="center">
-        <span><b>Bootstrap 5</b></span><br><br>
-        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
-      </td>
     </tr>
     <tr valign="top">
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>Sass</b></span><br><br>
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
       </td>
-      <td width="20%" align="center">
-        <span><b>Git, Github</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-          <td width="20%" align="center">
+          <td width="25%" align="center">
         <span><b>React.js</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>React Redux</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/redux-logo-vector.svg">
       </td>
-      <td width="20%" align="center">
+      <td width="25%" align="center">
         <span><b>Next.js</b></span><br><br>
         <img height="64px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
       </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center" colspan="1">
+        <span><b>Git, Github</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+      </td>
+      <td width="25%" align="center" colspan="1">
+        <span><b>Bootstrap 5</b></span><br><br>
+        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
+      </td>
+      <td width="25%" align="center" colspan="2">
+        <span><b>Firebase</b></span><br><br>
+        <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
+      </td> 
     </tr>
   </tbody>
 </table>
