@@ -53,7 +53,11 @@
         <span><b>Bootstrap 5</b></span><br><br>
         <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
       </td>
-      <td width="25%" align="center" colspan="2">
+      <td width="25%" align="center" colspan="1">
+        <span><b>Tailwind</b></span><br><br>
+        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
+      </td>
+      <td width="25%" align="center">
         <span><b>Firebase</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
       </td> 
