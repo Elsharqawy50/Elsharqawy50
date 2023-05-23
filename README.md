@@ -31,7 +31,21 @@
         <span><b>Sass</b></span><br><br>
         <img height="64px" src="https://www.pngkit.com/png/detail/377-3771972_sass.png">
       </td>
-          <td width="25%" align="center">
+      <td width="25%" align="center" colspan="1">
+         <span><b>Bootstrap 5</b></span><br><br>
+         <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
+      </td>
+      <td width="25%" align="center" colspan="1">
+         <span><b>Tailwind</b></span><br><br>
+         <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
+      </td>
+      <td width="25%" align="center" colspan="1">
+        <span><b>Git, Github</b></span><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+       </td>
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
         <span><b>React.js</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/thumbs/react-logo-vector-1.svg">
       </td>
@@ -42,20 +56,6 @@
       <td width="25%" align="center">
         <span><b>Next.js</b></span><br><br>
         <img height="64px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center" colspan="1">
-        <span><b>Git, Github</b></span><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center" colspan="1">
-        <span><b>Bootstrap 5</b></span><br><br>
-        <img height="64px" src="https://www.brcline.com/wp-content/uploads/2016/01/bootstrap-logo.png">
-      </td>
-      <td width="25%" align="center" colspan="1">
-        <span><b>Tailwind</b></span><br><br>
-        <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
       </td>
       <td width="25%" align="center">
         <span><b>Firebase</b></span><br><br>
