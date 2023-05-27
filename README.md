@@ -68,10 +68,10 @@
 
 <hr>
 <p align ="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Elsharqawy50&show_icons=true&title_color=00ffff&text_color=33ff33&bg_color=333333&icon_color=ffff4d")
+<a href="http://www.github.com/Elsharqawy50"><img src="https://github-readme-stats.vercel.app/api?username=Elsharqawy50&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Elsharqawy50's GitHub stats" /></a>
 </p>
 
-<p>Contact me:</p>
+<h4>Contact me:</h4>
 <a href="https://www.linkedin.com/in/abdelrahman-mohamed-elsharqawy/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:abdelrahman.elsharqawy50@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red.svg?&logo=gmail&logoColor=white" alt="gmai"></a>
 <a href="https://api.whatsapp.com/send?phone=201097478043"><img src="https://img.shields.io/badge/Whatsapp-4CA143?labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=201019084872&text=Abdelrahman_Ahmed" alt="whatsapp"></a>
