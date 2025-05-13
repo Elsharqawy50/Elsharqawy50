@@ -23,7 +23,7 @@
       </td>
       <td width="200px" align="center">
         <span><b>TypeScript</b></span><br><br>
-        <img height="65px" src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png">
+        <img height="65px" src="https://images.icon-icons.com/2415/PNG/512/typescript_plain_logo_icon_146316.png">
       </td>
     </tr>
     <tr valign="top">
@@ -37,7 +37,7 @@
       </td>
       <td width="25%" align="center" colspan="1">
          <span><b>Tailwind</b></span><br><br>
-         <img height="64px" src="https://res.cloudinary.com/arcjet-media/image/upload/v1608734952/z8hzeszc9eb3sp3vp3qc.jpg">
+         <img height="64px" src="https://img.icons8.com/?size=256&id=CIAZz2CYc6Kc&format=png">
       </td>
       <td width="25%" align="center" colspan="1">
         <span><b>Git, Github</b></span><br><br>
@@ -55,11 +55,29 @@
       </td>
       <td width="25%" align="center">
         <span><b>Next.js</b></span><br><br>
-        <img height="64px" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png">
+        <img height="64px" src="https://img.icons8.com/?size=256&id=MWiBjkuHeMVq&format=png">
       </td>
       <td width="25%" align="center">
         <span><b>Firebase</b></span><br><br>
         <img height="64px" src="https://brandslogos.com/wp-content/uploads/images/large/firebase-logo.png">
+      </td> 
+    </tr>
+    <tr valign="top">
+      <td width="25%" align="center">
+        <span><b>Vue.js</b></span><br><br>
+        <img height="64px" src="https://img.icons8.com/?size=256&id=rY6agKizO9eb&format=png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Nuxt.js</b></span><br><br>
+        <img height="64px" src="https://img.icons8.com/?size=256&id=nvrsJYs7j9Vb&format=png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Node</b></span><br><br>
+        <img height="64px" src="https://img.icons8.com/?size=256&id=54087&format=png">
+      </td>
+      <td width="25%" align="center">
+        <span><b>Monogodb</b></span><br><br>
+        <img height="64px" src="https://img.icons8.com/?size=256&id=74402&format=png">
       </td> 
     </tr>
   </tbody>
